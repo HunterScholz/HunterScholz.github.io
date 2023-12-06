@@ -1,5 +1,6 @@
-.custom-container{
-    background-image: url("/images/three sisters.jpg");
-    width: 100%;
-    height: 100%
-}
+
+body {
+    background: url("../images/three_sisters.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
