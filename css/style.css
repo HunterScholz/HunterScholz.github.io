@@ -1,6 +1,13 @@
 
-body {
+.home-body {
     background: url("../images/three_sisters.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+  }
+
+  
+.info-body {
+    background: url("../images/osu.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
   }
